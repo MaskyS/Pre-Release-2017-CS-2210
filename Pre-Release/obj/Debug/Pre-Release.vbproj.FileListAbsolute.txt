@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\bin\Debug\Pre-Release.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\bin\Debug\Pre-Release.exe
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\bin\Debug\Pre-Release.pdb
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\bin\Debug\Pre-Release.xml
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\obj\Debug\Pre-Release.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\obj\Debug\Pre_Release.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\obj\Debug\Pre-Release.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\obj\Debug\Pre-Release.exe
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\obj\Debug\Pre-Release.xml
+c:\users\user\documents\visual studio 2015\Projects\Pre-Release\Pre-Release\obj\Debug\Pre-Release.pdb
